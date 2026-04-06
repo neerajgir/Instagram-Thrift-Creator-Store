@@ -104,6 +104,4 @@ Since this business started on Instagram DMs and WhatsApp, both channels are sto
 
 ## Tools Used
 
-- **Mermaid.js** — for rendering the ER diagram (`erDiagram` syntax)
-- **HTML/CSS** — for the standalone diagram file
-- **Draw target** — browser-renderable, no install required
+- **Excalidraw** — for rendering the ER diagram (`erDiagram` syntax)
